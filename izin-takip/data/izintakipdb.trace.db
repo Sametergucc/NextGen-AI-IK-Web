@@ -1,0 +1,15 @@
+2025-05-11 12:22:00.826121+03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "UPDATE LEAVE_REQUEST SET POSITION[*]"; expected "., [, ="; SQL statement:
+UPDATE LEAVE_REQUEST SET POSITION [42001-224]
+2025-05-11 12:22:27.263012+03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "UPDATE LEAVE_REQUEST SET POSITION =[*]"; expected "DEFAULT, INTERSECTS (, NOT, EXISTS, UNIQUE, INTERSECTS"; SQL statement:
+UPDATE LEAVE_REQUEST SET POSITION = [42001-224]
+2025-05-11 12:22:27.653696+03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "UPDATE LEAVE_REQUEST SET POSITION =[*]"; expected "DEFAULT, INTERSECTS (, NOT, EXISTS, UNIQUE, INTERSECTS"; SQL statement:
+UPDATE LEAVE_REQUEST SET POSITION = [42001-224]
+2025-05-11 12:22:29.064746+03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "UPDATE LEAVE_REQUEST SET POSITION[*]"; expected "., [, ="; SQL statement:
+UPDATE LEAVE_REQUEST SET POSITION [42001-224]
+2025-05-11 12:22:29.379201+03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "UPDATE LEAVE_REQUEST SET POSITION[*]"; expected "., [, ="; SQL statement:
+UPDATE LEAVE_REQUEST SET POSITION [42001-224]
